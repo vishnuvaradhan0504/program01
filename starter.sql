@@ -1,3 +1,4 @@
+
 CREATE TABLE Department
 (
 DepartmentID INT(5) PRIMARY KEY,
